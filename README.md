@@ -1,3 +1,11 @@
+#Movie app
+
+Movie app comme son nom l'indique est une application dédiée à la presentation de films, crée par le framework ReactJs et son API
+context.
+D'autre part, grace a l'excellente API Tmbd dont le lien est https://api.themoviedb.org , j'ai essayé de faire ressortir de manière dynamique
+les recherches sur nos films preférés.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
