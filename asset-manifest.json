@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/todplaz.github.io-movie-app/static/css/main.ffef9926.chunk.css",
+    "main.js": "/todplaz.github.io-movie-app/static/js/main.77fdf895.chunk.js",
+    "main.js.map": "/todplaz.github.io-movie-app/static/js/main.77fdf895.chunk.js.map",
+    "runtime-main.js": "/todplaz.github.io-movie-app/static/js/runtime-main.47928df2.js",
+    "runtime-main.js.map": "/todplaz.github.io-movie-app/static/js/runtime-main.47928df2.js.map",
+    "static/js/2.9f45ef87.chunk.js": "/todplaz.github.io-movie-app/static/js/2.9f45ef87.chunk.js",
+    "static/js/2.9f45ef87.chunk.js.map": "/todplaz.github.io-movie-app/static/js/2.9f45ef87.chunk.js.map",
+    "index.html": "/todplaz.github.io-movie-app/index.html",
+    "static/css/main.ffef9926.chunk.css.map": "/todplaz.github.io-movie-app/static/css/main.ffef9926.chunk.css.map",
+    "static/js/2.9f45ef87.chunk.js.LICENSE.txt": "/todplaz.github.io-movie-app/static/js/2.9f45ef87.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47928df2.js",
+    "static/js/2.9f45ef87.chunk.js",
+    "static/css/main.ffef9926.chunk.css",
+    "static/js/main.77fdf895.chunk.js"
+  ]
+}
